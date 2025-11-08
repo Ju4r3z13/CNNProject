@@ -25,7 +25,7 @@ from torch.utils.data import TensorDataset, DataLoader
 '''
                                         Project 3: Machine Learning
                                 Neural Networks and Convolutional Neural Networks
-                                        Eduardo Juarez, exj220003
+                                                Eduardo Juarez
 Implementation Notes:
   For the CNN class I had originallyimplemented the example on: https://d2l.ai/chapter_convolutional-neural-networks/conv-layer.html.
     However the model was giving me some trouble when using the d2l trainer and every fix I made made the nn more complex to fix,
